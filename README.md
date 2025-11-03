@@ -1,1 +1,1 @@
-Expert Advisor that shows forex trading life update 
+Script that shows forex trading live update 
